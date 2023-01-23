@@ -7,9 +7,9 @@ Big-O gösterimini yazınız.
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
 
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
+- Average case: Aradığımız sayının ortada olması
+- Worst case: Aradığımız sayının sonda olması
+- Best case: Aradığımız sayının dizinin en başında olması.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
