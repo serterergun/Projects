@@ -1,0 +1,5 @@
+print("Python")
+print("\tPython")
+print("Languages: \nEnglish\nGerman\nTurkish")
+print("Languages: \n\tEnglish\n\tGerman\n\tTurkish")
+print("Languages: \n\tEnglish\n\t\tGerman\n\t\t\tTurkish")

@@ -1,2 +1,4 @@
-a = [1,2,3,4,5,6]
-print(a.index(6))
+x = -5
+while x > 0:
+    x = x - 1
+print("Blastoff!!")
